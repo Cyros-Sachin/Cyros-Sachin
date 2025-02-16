@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **MongoDb**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-xsh1.onrender.com](https://portfolio-xsh1.onrender.com)
+- 👨‍💻 All of my projects are available at [https://sachin-eta.vercel.app](https://sachin-eta.vercel.app)
 
 - 💬 Ask me about **Web Development**
 
