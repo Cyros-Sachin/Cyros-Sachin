@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sachinkc4456@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-xsh1.onrender.com](https://portfolio-xsh1.onrender.com)
+- 📄 Know about my experiences [https://sachin-eta.vercel.app](https://sachin-eta.vercel.app)
 
 - ⚡ Fun fact **I can spend hours tweaking the perfect pixel but can’t seem to decide what to watch on Netflix in under 5 minutes! 😄**
 
